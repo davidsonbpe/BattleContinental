@@ -1,0 +1,59 @@
+{
+  "name": "Battle Continental",
+  "short_name": "Battle Continental",
+  "description": "Battle continental é um jogo naves de Guerra que o jogador tem que bombardear naves inimiga.",
+  "background_color": "#2B2B2B",
+  "theme_color": "#2c2c29",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?app",
+  "scope": "./",
+  "lang": "pt-br",
+  "icons": [
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
