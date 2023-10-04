@@ -1,4 +1,4 @@
 # BattleContinental
 * https://battlecontinental.netlify.app/
-* https://davidsonbpe.github.io/battlecontinental/
+* https://davidsonbpe.github.io/BattleContinental/
 
